@@ -1,0 +1,23 @@
+<style>
+  h1{
+  color: purple;
+  text-align: center;
+}
+
+h2{
+  color: teal;
+  text-align: center;
+}
+
+body {
+  background-color: skyblue;
+}
+
+img {
+  border: purple 5px;
+}
+
+img:hover {
+  width: 60%;
+}
+</style> 
