@@ -1,9 +1,27 @@
-h2 {
+<style>
+  h1{
+  color: purple;
   text-align: center;
 }
-body{
-  background-color:#c0f2fa;
+
+h2{
+  color: teal;
+  text-align: center;
 }
+
+body {
+  background-color: skyblue;
+}
+
+img {
+  border: purple 5px;
+}
+
+img:hover {
+  width: 60%;
+}
+</style> 
+
 nav {
   list-style-type:none;
   position: fixed;
@@ -20,16 +38,4 @@ li{
   padding: 3%;
   margin: 5px;
     float: center;
-}
-
-a {
-  color: blue;
-  text-decoration: none;
-  font-size: 120%;
- 
-}
-
-li a:hover{
-  background-color: navy;
-  font-size: 25px;
 }
