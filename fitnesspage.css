@@ -1,7 +1,6 @@
-<style>
-  h1{
-  color: purple;
-  text-align: center;
+h1{
+color: purple;
+text-align: center;
 }
 
 h2{
@@ -14,13 +13,12 @@ body {
 }
 
 img {
-  border: purple 5px;
+  border: purple 4px;
 }
 
 img:hover {
   width: 60%;
 }
-</style> 
 
 nav {
   list-style-type:none;
