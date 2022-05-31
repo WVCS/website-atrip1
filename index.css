@@ -16,4 +16,8 @@ body {
 img {
   border: purple 5px;
 }
+
+img:hover {
+  width: 60%;
+}
 </style> 
