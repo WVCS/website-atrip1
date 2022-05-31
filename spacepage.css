@@ -1,7 +1,6 @@
-<style>
-  h1{
-  color: purple;
-  text-align: center;
+h1{
+color: purple;
+text-align: center;
 }
 
 h2{
@@ -20,7 +19,6 @@ img {
 img:hover {
   width: 60%;
 }
-</style> 
 
 nav {
   list-style-type:none;
