@@ -9,7 +9,7 @@ h2{
 }
 
 body {
-  background-color: skyblue;
+  background-color: #a7cae9;
 }
 
 img {
@@ -23,7 +23,7 @@ img:hover {
 nav {
   list-style-type:none;
   position: fixed;
-  background-color: skyblue;
+  background-color: #a7cae9;
 width: 100%;
 margin: 0;
 padding: 0;
