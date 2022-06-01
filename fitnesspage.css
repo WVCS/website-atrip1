@@ -1,6 +1,13 @@
-h2 {
-  text-align : center;
+h1{
+color: purple;
+text-align: center;
 }
+
+h2{
+  color: teal;
+  text-align: center;
+}
+
 body{
   background-color : #ddebfb;
 }
