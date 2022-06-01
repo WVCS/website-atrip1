@@ -1,29 +1,13 @@
-h1{
-color: purple;
-text-align: center;
+h2 {
+  text-align : center;
 }
-
-h2{
-  color: teal;
-  text-align: center;
+body{
+  background-color : #ddebfb;
 }
-
-body {
-  background-color: #ddebfb;
-}
-
-img {
-  border: purple 4px;
-}
-
-img:hover {
-  width: 60%;
-}
-
 nav {
   list-style-type:none;
   position: fixed;
-  background-color: #ddebfb;
+  background-color: #a5d0eb;
 width: 100%;
 margin: 0;
 padding: 0;
@@ -35,5 +19,21 @@ li{
   display: inline;
   padding: 3%;
   margin: 5px;
-    float: center;
+    float: left;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  font-size: 120%;
+ 
+}
+
+li a:hover{
+  background-color: grey;
+  font-size: 25px;
+}
+
+img:hover {
+  width: 60%;
 }
